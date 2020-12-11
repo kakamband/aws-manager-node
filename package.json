@@ -2,9 +2,19 @@
   "name": "aws-manager-node",
   "version": "0.0.1",
   "description": "AWS Manager Tool for Node.js",
-  "author": "Swetank Mohanty",
+  "author": {
+    "name": "Swetank Mohanty",
+    "email": "swetank.mohanty@outlook.com"
+  },
   "private": true,
   "license": "Apache-2.0",
+  "engines": {
+    "node": ">=14.5"
+  },
+  "repository": {
+    "type": "git",
+	"url": "https://github.com/shortthirdman/aws-manager-node.git"
+  },
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
@@ -79,5 +89,6 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
-  }
+  },
+  "copyright.owner": "Swetank Mohanty"
 }
