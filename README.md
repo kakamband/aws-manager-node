@@ -24,6 +24,8 @@
 
 # aws-manager-node
 
+![Node.js CI](https://github.com/shortthirdman/aws-manager-node/workflows/Node.js%20CI/badge.svg)
+
 [Amamzon Web Services](https://aws.amazon.com/) Manager Tool on [Node.js](https://nodejs.org/) and [Heroku](https://www.heroku.com/)
 
 ## Description
