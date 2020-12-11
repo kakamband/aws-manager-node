@@ -24,9 +24,11 @@
 
 # aws-manager-node
 
-![Node.js CI](https://github.com/shortthirdman/aws-manager-node/workflows/Node.js%20CI/badge.svg)
+![Node.js CI](https://github.com/shortthirdman/aws-manager-node/workflows/Node.js%20CI/badge.svg)	[![GitHub issues](https://img.shields.io/github/issues/shortthirdman/aws-manager-node)](https://github.com/shortthirdman/aws-manager-node/issues)	[![GitHub license](https://img.shields.io/github/license/shortthirdman/aws-manager-node)](https://github.com/shortthirdman/aws-manager-node/blob/main/LICENSE)	[![GitHub stars](https://img.shields.io/github/stars/shortthirdman/aws-manager-node)](https://github.com/shortthirdman/aws-manager-node/stargazers)	[![GitHub forks](https://img.shields.io/github/forks/shortthirdman/aws-manager-node)](https://github.com/shortthirdman/aws-manager-node/network)
 
 [Amamzon Web Services](https://aws.amazon.com/) Manager Tool on [Node.js](https://nodejs.org/) and [Heroku](https://www.heroku.com/)
+
+![Node.js](https://github.com/actions/starter-workflows/blob/a571f2981ab5a22dfd9158f20646c2358db3654c/icons/nodejs.svg) 	![Amazon Web Services](https://github.com/actions/starter-workflows/blob/a571f2981ab5a22dfd9158f20646c2358db3654c/icons/aws.svg)
 
 ## Description
 
